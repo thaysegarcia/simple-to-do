@@ -10,6 +10,8 @@ This project focuses on practicing component structure, state management, and st
 - Visual feedback for completed tasks
 - Clean and responsive UI
 
+- This project is currently using a static version without interactivity. Dynamic features will be added in future updates.
+
 ## Stacks
 
 - React
