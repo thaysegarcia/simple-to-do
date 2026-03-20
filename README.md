@@ -1,16 +1,15 @@
 # Simple To-Do App
 
 A simple and clean to-do list built with **React** and **Tailwind CSS**.  
-This project focuses on practicing component structure, state management, and styling with utility-first CSS.
+This project focuses on practicing component structure, state management, event handling, and dynamic rendering.
 
 ## Features
 
-- Add new tasks
-- Mark tasks as completed
-- Visual feedback for completed tasks
-- Clean and responsive UI
-
-- This project is currently using a static version without interactivity. Dynamic features will be added in future updates.
+- Add new tasks (button or Enter key)
+- Mark tasks as completed (click to toggle)
+- Edit tasks
+- Delete tasks
+- Dynamic UI updates in real time
 
 ## Stacks
 
